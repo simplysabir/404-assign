@@ -72,6 +72,20 @@ li{
     padding-top: 5rem;
 }
 
+.footer{
+    height: 2rem;
+    background: #28282b;
+}
+.footer p{
+    color: #faf9f6;
+    font-weight: bold;
+    text-align: center;
+}
+.footer .container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 /* RESPONSIVE */
 @media(max-width:990px){
     .heading{
